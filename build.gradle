@@ -20,7 +20,7 @@ version '2.1.3'
 
 intellij {
     plugins = ['com.intellij.java']
-    version = "231.8109.175"
+    version = "233.14475.28"
 }
 
 dependencies {
